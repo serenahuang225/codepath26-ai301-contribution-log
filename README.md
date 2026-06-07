@@ -1,15 +1,25 @@
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Student:** Serena Huang 
+**Issue:** [GitHub issue link](https://github.com/PyLabRobot/pylabrobot/issues/633) 
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose issue #633, "docs for thermocycler," because it aligns well with my experience in Python and Jupyter Notebooks while giving me an opportunity to learn more about laboratory automation software.
+
+I'm interested in this issue because:
+1. I have experience working with Python and creating Jupyter Notebook-based projects, so I am comfortable writing clear, educational examples and tutorials.
+2. The issue is focused on documentation and example notebooks, which seems like a manageable scope for a first open-source contribution.
+3. The maintainer has provided clear guidance on what is needed, including quick-start notebooks and demonstrations of the thermocycler's functionality.
+4. The project itself is interesting to me because lab automation combines software engineering with real-world scientific applications, and I would like to learn more about how these systems work.
+
+From reading the issue discussion, I understand that the goal is to create documentation notebooks that help users quickly get started with thermocycler functionality and explore the available features. I also noticed that a previous contributor submitted work for this issue, but it appears the issue remained open after review, suggesting there is still an opportunity to improve the documentation.
+
+I left a comment on the issue introducing myself and expressing my interest in working on it. I am currently reviewing the codebase and related documentation while waiting to hear back from the maintainer.
 
 ---
 
