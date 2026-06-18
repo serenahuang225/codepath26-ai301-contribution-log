@@ -27,19 +27,19 @@ I left a comment on the issue introducing myself and expressing my interest in w
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+The problem is that the docs for the thermocycler need to be created.
 
 ### Expected Behavior
 
-[What should happen?]
+There should be docs.
 
 ### Current Behavior
 
-[What actually happens?]
+There are no docs
 
 ### Affected Components
 
-[Which parts of the codebase are involved?]
+Docs?
 
 ---
 
